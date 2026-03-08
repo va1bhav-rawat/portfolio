@@ -31,7 +31,7 @@ export default function Navigation() {
                 <div className={`nlogo ${scrolled ? 'scrolled' : ''}`} id="nlogo">
                     <span className="nlogo-full">Vaibhav Rawat</span>
                     <span className="nlogo-short">VR</span>
-                    <span className="nlogo-sizer">VR</span>
+                    <span className="nlogo-sizer">Vaibhav Rawat</span>
                 </div>
                 <div className="nlinks">
                     <a href="#about">About</a>

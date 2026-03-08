@@ -51,6 +51,14 @@ export default function Skills() {
                                 <span className="tag">Bitbucket</span><span className="tag">Postman</span>
                             </div>
                         </div>
+                        <div className="sk-card">
+                            <div className="sk-label">Soft Skills</div>
+                            <div className="tags">
+                                <span className="tag">Communication</span>
+                                <span className="tag">Problem Solving</span>
+                                <span className="tag">Team Collaboration</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>

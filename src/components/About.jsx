@@ -55,8 +55,8 @@ export default function About() {
                             <div className="sl">Production products shipped</div>
                         </div>
                         <div className="stat">
-                            <div className="sn">2</div>
-                            <div className="sl">Companies contributed to</div>
+                            <div className="sn">1</div>
+                            <div className="sl">Company served</div>
                         </div>
                         <div className="stat">
                             <div className="sn">Full</div>

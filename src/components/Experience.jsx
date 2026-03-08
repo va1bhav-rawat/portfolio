@@ -59,7 +59,7 @@ export default function Experience() {
                                     </div>
                                 </div>
                                 <div className="proj">
-                                    <div className="proj-name">Relevvo — AI ABM Platform</div>
+                                    <div className="proj-name">AI ABM Platform</div>
                                     <div className="proj-pts">
                                         <div className="proj-pt">Maintained and developed an AI-driven account-based marketing
                                             platform for B2B sales teams.</div>

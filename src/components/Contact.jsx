@@ -22,9 +22,14 @@ export function Contact() {
                                 <span className="cval">linkedin.com/in/vaibhavrawatt</span>
                                 <span className="carr">↗</span>
                             </a>
-                            <a className="clink" href="tel:+918755292531">
-                                <span className="ctype">Phone</span>
-                                <span className="cval">+91 87552 92531</span>
+                            <a className="clink" href="https://github.com/va1bhav-rawat" target="_blank" rel="noopener noreferrer">
+                                <span className="ctype">GitHub</span>
+                                <span className="cval">github.com/va1bhav-rawat</span>
+                                <span className="carr">↗</span>
+                            </a>
+                            <a className="clink" href="https://instagram.com/vaibhav.rawatt" target="_blank" rel="noopener noreferrer">
+                                <span className="ctype">Instagram</span>
+                                <span className="cval">@vaibhav.rawatt</span>
                                 <span className="carr">↗</span>
                             </a>
                         </div>
@@ -38,8 +43,8 @@ export function Contact() {
 export function Footer() {
     return (
         <footer>
-            <span>© 2025 Vaibhav Rawat</span>
-            <span className="fr">Dehradun, Uttarakhand, India</span>
+            <span className="footer-text">© 2025 Vaibhav Rawat</span>
+            <span className="footer-text">Dehradun, Uttarakhand, India</span>
         </footer>
     );
 }

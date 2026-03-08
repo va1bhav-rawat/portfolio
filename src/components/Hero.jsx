@@ -230,7 +230,7 @@ export default function Hero() {
         <div className="h-links">
           <a href="mailto:vaibhavr325@gmail.com">vaibhavr325@gmail.com</a>
           <a href="https://linkedin.com/in/vaibhavrawatt" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
-          <a href="tel:+918755292531">+91 87552 92531</a>
+          <a href="https://github.com/va1bhav-rawat" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         </div>
       </div>
       <div className="tree-scene">
