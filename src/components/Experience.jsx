@@ -16,7 +16,7 @@ export default function Experience() {
                     <div className="exp-list">
 
                         <div className="exp-entry" id="ex0" ref={exp0Ref}>
-                            <div className="exp-date">March 2025 – Present</div>
+                            <div className="exp-date">July 2024 – March 2026</div>
                             <div className="exp-role">Full Stack Engineer</div>
                             <div className="exp-co">DevsLane</div>
                             <div className="proj-list">
@@ -36,7 +36,7 @@ export default function Experience() {
                         </div>
 
                         <div className="exp-entry" id="ex1" ref={exp1Ref}>
-                            <div className="exp-date">July 2022 – March 2025</div>
+                            <div className="exp-date">July 2022 – June 2024</div>
                             <div className="exp-role">Full Stack Engineer Intern</div>
                             <div className="exp-co">DevsLane</div>
                             <div className="proj-list">
@@ -59,7 +59,7 @@ export default function Experience() {
                                     </div>
                                 </div>
                                 <div className="proj">
-                                    <div className="proj-name">AI ABM Platform</div>
+                                    <div className="proj-name">AI-Powered Sales Platform</div>
                                     <div className="proj-pts">
                                         <div className="proj-pt">Maintained and developed an AI-driven account-based marketing
                                             platform for B2B sales teams.</div>

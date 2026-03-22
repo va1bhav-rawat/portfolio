@@ -43,7 +43,7 @@ export function Contact() {
 export function Footer() {
     return (
         <footer>
-            <span className="footer-text">© 2025 Vaibhav Rawat</span>
+            <span className="footer-text">© 2026 Vaibhav Rawat</span>
             <span className="footer-text">Dehradun, Uttarakhand, India</span>
         </footer>
     );

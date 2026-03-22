@@ -19,8 +19,9 @@ export default function Skills() {
                                 <span className="tag">React</span><span className="tag">Next.js</span>
                                 <span className="tag">TypeScript</span><span className="tag">JavaScript</span>
                                 <span className="tag">React Native</span><span className="tag">Redux</span>
-                                <span className="tag">React Query</span><span className="tag">HTML5</span>
-                                <span className="tag">CSS3</span><span className="tag">SCSS</span>
+                                <span className="tag">Zustand</span><span className="tag">React Query</span>
+                                <span className="tag">HTML5</span><span className="tag">CSS3</span>
+                                <span className="tag">SCSS</span>
                             </div>
                         </div>
                         <div className="sk-card">
@@ -34,7 +35,7 @@ export default function Skills() {
                         <div className="sk-card">
                             <div className="sk-label">Databases</div>
                             <div className="tags">
-                                <span className="tag">PostgreSQL</span><span className="tag">MongoDB</span>
+                                <span className="tag">MySQL</span><span className="tag">PostgreSQL</span><span className="tag">MongoDB</span>
                             </div>
                         </div>
                         <div className="sk-card">
