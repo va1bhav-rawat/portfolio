@@ -232,6 +232,14 @@ export default function Hero() {
           <a href="https://linkedin.com/in/vaibhavrawatt" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
           <a href="https://github.com/va1bhav-rawat" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
         </div>
+        <a
+          className="h-resume"
+          href="https://drive.google.com/file/d/1Bd4ddgQUO1Zr-5vAXiUxXyE1U4DVzJ-u/view?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Resume ↓
+        </a>
       </div>
       <div className="tree-scene">
         <div className="bonsai-display">

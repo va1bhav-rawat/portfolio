@@ -142,6 +142,7 @@
             color: var(--blossom2);
         }
 
+
         /* ── SIDE DOTS ── */
         #dots {
             position: fixed;
@@ -283,6 +284,28 @@
         .h-links a:hover {
             color: var(--blossom2);
             border-color: var(--blossom2);
+        }
+
+        .h-resume {
+            display: inline-block;
+            margin-top: 1.8rem;
+            padding: .55rem 1.4rem;
+            font-family: 'DM Mono', monospace;
+            font-size: .75rem;
+            letter-spacing: .15em;
+            text-transform: uppercase;
+            color: var(--blossom2);
+            text-decoration: none;
+            border: 1px solid var(--blossom2);
+            border-radius: 2px;
+            opacity: 0;
+            animation: up .9s 1.4s forwards;
+            transition: background .2s, color .2s;
+        }
+
+        .h-resume:hover {
+            background: var(--blossom2);
+            color: var(--paper);
         }
 
 
@@ -879,6 +902,11 @@
         .clink:hover {
             background: rgba(212, 99, 126, .06);
             border-color: rgba(212, 99, 126, .32);
+        }
+
+        .clink-resume {
+            border-color: rgba(212, 99, 126, .35);
+            color: var(--blossom2);
         }
 
         .ctype {

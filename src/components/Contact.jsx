@@ -32,6 +32,11 @@ export function Contact() {
                                 <span className="cval">@vaibhav.rawatt</span>
                                 <span className="carr">↗</span>
                             </a>
+                            <a className="clink clink-resume" href="https://drive.google.com/file/d/1Bd4ddgQUO1Zr-5vAXiUxXyE1U4DVzJ-u/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                <span className="ctype">Resume</span>
+                                <span className="cval">View & Download PDF</span>
+                                <span className="carr">↗</span>
+                            </a>
                         </div>
                     </div>
                 </div>
