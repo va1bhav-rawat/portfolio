@@ -14,7 +14,7 @@ export default function About() {
                 <div className="about-grid">
                     <div className="about-main" id="am" ref={mainRef}>
                         <p className="about-body">
-                            I'm a <strong>Full Stack Engineer</strong> with 3 years of experience building and shipping
+                            I'm a <strong>Full Stack Developer</strong> with 3 years of experience building and shipping
                             production-grade web applications. I work confidently across the entire stack — from crafting
                             pixel-precise React interfaces to architecting Node.js backends with real-world scale in
                             mind.<br /><br />
@@ -29,7 +29,7 @@ export default function About() {
                             </div>
                             <div className="mrow">
                                 <span className="mk">Current Role</span>
-                                <span className="mv">Full Stack Engineer @ DevsLane</span>
+                                <span className="mv">Full Stack Developer @ DevsLane</span>
                             </div>
                             <div className="mrow">
                                 <span className="mk">Education</span>

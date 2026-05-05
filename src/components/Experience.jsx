@@ -17,7 +17,7 @@ export default function Experience() {
 
                         <div className="exp-entry" id="ex0" ref={exp0Ref}>
                             <div className="exp-date">July 2024 – March 2026</div>
-                            <div className="exp-role">Full Stack Engineer</div>
+                            <div className="exp-role">Full Stack Developer</div>
                             <div className="exp-co">DevsLane</div>
                             <div className="proj-list">
                                 <div className="proj">
@@ -37,7 +37,7 @@ export default function Experience() {
 
                         <div className="exp-entry" id="ex1" ref={exp1Ref}>
                             <div className="exp-date">July 2022 – June 2024</div>
-                            <div className="exp-role">Full Stack Engineer Intern</div>
+                            <div className="exp-role">Full Stack Developer Intern</div>
                             <div className="exp-co">DevsLane</div>
                             <div className="proj-list">
                                 <div className="proj">

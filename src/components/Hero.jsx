@@ -222,10 +222,10 @@ export default function Hero() {
   return (
     <section id="hero">
       <div className="hero-text">
-        <p className="h-eyebrow">Full Stack Engineer · Dehradun, India</p>
+        <p className="h-eyebrow">Full Stack Developer · Dehradun, India</p>
         <h1 className="h-name">Vaibhav<em>Rawat</em></h1>
-        <p className="h-role">Building products end-to-end · 3 years · React · Node.js · Cloud</p>
-        <p className="h-desc">Full Stack Engineer shipping web applications from interactive React frontends to scalable
+        <p className="h-role">Building products end-to-end · 3+ years · React · Node.js · Cloud</p>
+        <p className="h-desc">Full Stack Developer shipping web applications from interactive React frontends to scalable
           Node.js backends and cloud-integrated pipelines. EdTech · B2B SaaS · Compliance Tooling.</p>
         <div className="h-links">
           <a href="mailto:vaibhavr325@gmail.com">vaibhavr325@gmail.com</a>

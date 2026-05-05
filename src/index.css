@@ -973,8 +973,22 @@
 
             .tree-scene {
                 height: 55vw;
-                min-height: 300px;
-                max-height: 500px;
+                min-height: 260px;
+                max-height: 420px;
+            }
+
+            #tree-wrap {
+                width: 300px;
+                height: 345px;
+            }
+
+            .bonsai-pot {
+                width: 195px;
+            }
+
+            .pot-feet,
+            .pot-shadow-floor {
+                display: none;
             }
 
             .about-grid,
@@ -1002,7 +1016,68 @@
         }
 
         @media(max-width:560px) {
+            .section {
+                padding: 4.5rem 5vw;
+            }
+
+            .hero-text {
+                padding: 5.5rem 5vw 2rem;
+            }
+
+            .h-role {
+                font-size: .95rem;
+            }
+
+            .h-desc {
+                font-size: .92rem;
+            }
+
+            .tree-scene {
+                height: auto;
+                min-height: unset;
+                max-height: unset;
+                padding: 1.5rem 0 0;
+            }
+
+            #tree-wrap {
+                width: 220px;
+                height: 254px;
+            }
+
+            .bonsai-pot {
+                width: 143px;
+            }
+
+            .bonsai-display {
+                height: auto;
+            }
+
+            .pot-feet,
+            .pot-shadow-floor {
+                display: none;
+            }
+
+            .s-title {
+                font-size: clamp(1.6rem, 7vw, 2.4rem);
+            }
+
+            .exp-role {
+                font-size: 1.25rem;
+            }
+
+            .con-title {
+                font-size: clamp(1.8rem, 8vw, 2.8rem);
+            }
+
             .skills-grid {
                 grid-template-columns: 1fr;
+            }
+
+            .about-body {
+                font-size: .93rem;
+            }
+
+            .proj-pt {
+                font-size: .88rem;
             }
         }
